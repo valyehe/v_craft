@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  X",
+    " X ",
+    "S#S"
+  ],
+  "key": {
+    "#": {
+      "item": "v_craft:sapphire"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "v_craft:metal_detector"
+  }
+}
