@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/v_craft.iml" filepath="$PROJECT_DIR$/.idea/modules/v_craft.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/v_craft.main.iml" filepath="$PROJECT_DIR$/.idea/modules/v_craft.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/v_craft.test.iml" filepath="$PROJECT_DIR$/.idea/modules/v_craft.test.iml" />
     </modules>
