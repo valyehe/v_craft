@@ -131,5 +131,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-11-07 16:42:09 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

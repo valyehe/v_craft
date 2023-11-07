@@ -1,6 +1,7 @@
 package com.v.v_craft.block;
 
 import com.v.v_craft.V_craft;
+import com.v.v_craft.block.custom.SoundBlock;
 import com.v.v_craft.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -72,6 +73,9 @@ public class ModBlocks {
                     .strength(5f).requiresCorrectToolForDrops(),
                     UniformInt.of(4, 8)));
 
+    //音乐方块
+    public static final RegistryObject<Block> SOUND_BLOCK = registerBlock("sound_block",
+            () -> new SoundBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
 
     //注册总线
     public static void register(IEventBus eventBus) {

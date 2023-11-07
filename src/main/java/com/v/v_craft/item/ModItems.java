@@ -1,6 +1,7 @@
 package com.v.v_craft.item;
 
 import com.v.v_craft.V_craft;
+import com.v.v_craft.item.custom.FuelItem;
 import com.v.v_craft.item.custom.MetalDetectorItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -28,6 +29,12 @@ public class ModItems {
 
     //探测器
     public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector", () -> new MetalDetectorItem(new Item.Properties().durability(20)));
+
+    //注册食物
+    public static final RegistryObject<Item> STRAWBERRY = ITEMS.register("strawberry", () -> new Item(new Item.Properties().food(ModFoods.STRAWBERRY)));
+
+    //注册燃料
+    public static final RegistryObject<Item> PINE_CONE = ITEMS.register("pine_cone", () -> new FuelItem(new Item.Properties(), 400));
 
 
     //注册总线
