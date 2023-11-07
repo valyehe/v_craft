@@ -1,0 +1,7 @@
+// 1.20.1	2023-11-07T21:09:05.9407712	Tags for minecraft:block mod id v_craft
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+48b2ee24f3c343fdccda5c861b8b4b05299eff34 data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_diamond_tool.json
+388f36074bdec3f4dbd5384e4650cae3c34db4a3 data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
+c3903a3298e3f72a6374c27f6913b21502e8c938 data/v_craft/tags/blocks/metal_detector_valuable.json

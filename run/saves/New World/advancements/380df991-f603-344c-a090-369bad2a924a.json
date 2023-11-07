@@ -137,5 +137,77 @@
     },
     "done": true
   },
+  "v_craft:recipes/misc/sapphire_from_smelting_deepslate_sapphire_ore": {
+    "criteria": {
+      "has_deepslate_sapphire_ore": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/metal_detector": {
+    "criteria": {
+      "has_sapphire": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/sapphire_block": {
+    "criteria": {
+      "has_sapphire": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/raw_sapphire_block": {
+    "criteria": {
+      "has_sapphire": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/raw_sapphire": {
+    "criteria": {
+      "has_sapphire": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/sapphire_from_blasting_sapphire_ore": {
+    "criteria": {
+      "has_sapphire_ore": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/sapphire": {
+    "criteria": {
+      "has_sapphire": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/sapphire_from_smelting_sapphire_ore": {
+    "criteria": {
+      "has_sapphire_ore": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2023-11-07 21:10:30 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/sapphire_from_blasting_raw_sapphire": {
+    "criteria": {
+      "has_raw_sapphire": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/sapphire_from_smelting_raw_sapphire": {
+    "criteria": {
+      "has_raw_sapphire": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
+  "v_craft:recipes/misc/sapphire_from_blasting_deepslate_sapphire_ore": {
+    "criteria": {
+      "has_deepslate_sapphire_ore": "2023-11-07 21:09:48 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

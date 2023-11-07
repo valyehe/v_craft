@@ -1,0 +1,8 @@
+// 1.20.1	2023-11-07T21:09:05.9377708	Loot Tables
+75a02f527c0d771cbdaa95a81e7cb71bedbc6d6e data/v_craft/loot_tables/blocks/deepslate_sapphire_ore.json
+bd58e346b2e10e5c9dc2b54cb0379ba00bfa90fc data/v_craft/loot_tables/blocks/end_stone_sapphire_ore.json
+e92a58ef326080cf3524d3024b3fd3b4f5bcc249 data/v_craft/loot_tables/blocks/nether_sapphire_ore.json
+4c42c57a3bfc7d0ee75e3997094b8ae45dac5b18 data/v_craft/loot_tables/blocks/raw_sapphire_block.json
+07b0f4102d765630edb81d998212b0eeeb2c7d82 data/v_craft/loot_tables/blocks/sapphire_block.json
+ab07e1b75cc95aed5aa6e5a4298db40f1c10e928 data/v_craft/loot_tables/blocks/sapphire_ore.json
+9a3d869dd84341ba04f5579b0d2e856708fad829 data/v_craft/loot_tables/blocks/sound_block.json

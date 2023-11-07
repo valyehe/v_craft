@@ -1,0 +1,17 @@
+{
+  "block.v_craft.deepslate_sapphire_ore": "DeepSlate Sapphire Ore",
+  "block.v_craft.end_stone_sapphire_ore": "End Stone Sapphire Ore",
+  "block.v_craft.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.v_craft.raw_sapphire_block": "Block Of Raw Sapphire",
+  "block.v_craft.sapphire_block": "Block Of Sapphire",
+  "block.v_craft.sapphire_ore": "Sapphire Ore",
+  "block.v_craft.sound_block": "Sound Block",
+  "creative.mod.tab": "Sapphire Craft",
+  "item.v_craft.metal_detector": "Metal Detector",
+  "item.v_craft.pine_cone": "Pine Cone",
+  "item.v_craft.raw_sapphire": "Raw Sapphire",
+  "item.v_craft.sapphire": "Sapphire",
+  "item.v_craft.strawberry": "Strawberry",
+  "tooltip.v_craft.metal_detector.tooltip": "Find Valuables UnderGround!",
+  "tooltip.v_craft.sound_block.tooltip": "Makes sounds when right-clicked!"
+}
