@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "v_craft:block/sapphire_slab"
+    },
+    "type=double": {
+      "model": "v_craft:block/sapphire_block"
+    },
+    "type=top": {
+      "model": "v_craft:block/sapphire_slab_top"
+    }
+  }
+}

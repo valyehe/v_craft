@@ -20,6 +20,7 @@ public class ModTags {
 
         public static final TagKey<Block> METAL_DETECTOR_VALUABLE = tag("metal_detector_valuable");
 
+        public static final TagKey<Block> NEEDS_SAPPHIRE_TOOL = tag("needs_sapphire_tool");
 
         private static TagKey<Block> tag(String name) {
             return BlockTags.create(new ResourceLocation(V_craft.MODID, name));

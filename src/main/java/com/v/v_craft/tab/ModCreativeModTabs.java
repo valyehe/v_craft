@@ -27,7 +27,6 @@ public class ModCreativeModTabs {
                     .icon(() -> new ItemStack(ModItems.SAPPHIRE.get()))
                     .title(Component.translatable("creative.mod.tab"))
                     .displayItems((pParameters, pOutput) -> {
-                        //物品
                         //杂项
                         pOutput.accept(ModItems.SAPPHIRE.get());
                         pOutput.accept(ModItems.RAW_SAPPHIRE.get());
@@ -43,6 +42,28 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.NETHER_SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.SOUND_BLOCK.get());
+                        //装饰方块
+                        pOutput.accept(ModBlocks.SAPPHIRE_STAIRS.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_BUTTON.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_PRESSURE_PLATE.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_SLAB.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_FENCE.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_FENCE_GATE.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_WALL.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_DOOR.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_TRAPDOOR.get());
+                        //工具
+                        pOutput.accept(ModItems.SAPPHIRE_STAFF.get());
+                        pOutput.accept(ModItems.SAPPHIRE_SWORD.get());
+                        pOutput.accept(ModItems.SAPPHIRE_PICKAXE.get());
+                        pOutput.accept(ModItems.SAPPHIRE_AXE.get());
+                        pOutput.accept(ModItems.SAPPHIRE_SHOVEL.get());
+                        pOutput.accept(ModItems.SAPPHIRE_HOE.get());
+                        //防具
+                        pOutput.accept(ModItems.SAPPHIRE_HELMET.get());
+                        pOutput.accept(ModItems.SAPPHIRE_CHESTPLATE.get());
+                        pOutput.accept(ModItems.SAPPHIRE_LEGGINGS.get());
+                        pOutput.accept(ModItems.SAPPHIRE_BOOTS.get());
                     })
                     .build());
 

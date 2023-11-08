@@ -1,8 +1,17 @@
-// 1.20.1	2023-11-07T21:09:05.9377708	Loot Tables
+// 1.20.1	2023-11-08T13:40:18.4473328	Loot Tables
 75a02f527c0d771cbdaa95a81e7cb71bedbc6d6e data/v_craft/loot_tables/blocks/deepslate_sapphire_ore.json
 bd58e346b2e10e5c9dc2b54cb0379ba00bfa90fc data/v_craft/loot_tables/blocks/end_stone_sapphire_ore.json
 e92a58ef326080cf3524d3024b3fd3b4f5bcc249 data/v_craft/loot_tables/blocks/nether_sapphire_ore.json
 4c42c57a3bfc7d0ee75e3997094b8ae45dac5b18 data/v_craft/loot_tables/blocks/raw_sapphire_block.json
 07b0f4102d765630edb81d998212b0eeeb2c7d82 data/v_craft/loot_tables/blocks/sapphire_block.json
+5088bc4d294ac560f868bbd91515547cb73763cc data/v_craft/loot_tables/blocks/sapphire_button.json
+d993582e7e909e85d066a01c4e40bba7b728cfa5 data/v_craft/loot_tables/blocks/sapphire_door.json
+f3357f3818bb6984b4ead7c39f480f573b37f8c6 data/v_craft/loot_tables/blocks/sapphire_fence.json
+4ad46d6616749944d8fdc43db0b4b010b33038ac data/v_craft/loot_tables/blocks/sapphire_fence_gate.json
 ab07e1b75cc95aed5aa6e5a4298db40f1c10e928 data/v_craft/loot_tables/blocks/sapphire_ore.json
+a293e1f7eefd7851483f5427ef777342ccf31d11 data/v_craft/loot_tables/blocks/sapphire_pressure_plate.json
+bb2e2e6f3df8a241c4e72db3634bd6685cbbcade data/v_craft/loot_tables/blocks/sapphire_slab.json
+5b3d6284d88923abc6b936896bd06d60747e89d4 data/v_craft/loot_tables/blocks/sapphire_stairs.json
+61da7d2b3c7158288c8bb8acc0c9157a5e65b6d1 data/v_craft/loot_tables/blocks/sapphire_trapdoor.json
+7205b3c725d154609dabde8f58397d279747739d data/v_craft/loot_tables/blocks/sapphire_wall.json
 9a3d869dd84341ba04f5579b0d2e856708fad829 data/v_craft/loot_tables/blocks/sound_block.json

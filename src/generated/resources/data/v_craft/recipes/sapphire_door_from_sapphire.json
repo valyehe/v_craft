@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "sapphire",
+  "key": {
+    "#": {
+      "item": "v_craft:sapphire"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "item": "v_craft:sapphire_door"
+  },
+  "show_notification": true
+}

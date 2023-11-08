@@ -6,7 +6,6 @@ import com.v.v_craft.item.ModItems;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.*;
 import net.minecraft.world.item.Items;
-import net.minecraft.world.item.MinecartItem;
 import net.minecraft.world.item.crafting.AbstractCookingRecipe;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.item.crafting.RecipeSerializer;
@@ -33,8 +32,15 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
             ModBlocks.END_STONE_SAPPHIRE_ORE.get()
     );
 
+    private static final List<ItemLike> DOOR = List.of(
+            ModBlocks.SAPPHIRE_DOOR.get()
+    );
+
     @Override
     protected void buildRecipes(Consumer<FinishedRecipe> pWriter) {
+
+        //Block
+        doorBuilding(pWriter, ModItems.SAPPHIRE.get(), DOOR, "sapphire");
 
         oreSmelting(pWriter, SAPPHIRE_SMELTABLES, RecipeCategory.MISC, ModItems.SAPPHIRE.get(), 0.25f, 200, "sapphire");
 
@@ -95,6 +101,15 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                             pExperience, pCookingTime, pCookingSerializer)
                     .group(pGroup).unlockedBy(getHasName(itemlike), has(itemlike))
                     .save(pFinishedRecipeConsumer, V_craft.MODID + ":" + getItemName(pResult) + pRecipeName + "_" + getItemName(itemlike));
+        }
+    }
+
+    protected static void doorBuilding(Consumer<FinishedRecipe> pFinishedRecipeConsumer, ItemLike pIngredients, List<ItemLike> pResult, String pGroup) {
+        for (ItemLike itemlike : pResult) {
+            ShapedRecipeBuilder
+                    .shaped(RecipeCategory.REDSTONE, itemlike, 3).define('#', pIngredients).pattern("##").pattern("##").pattern("##")
+                    .group(pGroup).unlockedBy(getHasName(pIngredients), has(pIngredients))
+                    .save(pFinishedRecipeConsumer, V_craft.MODID + ":" + getItemName(itemlike) + "_from" + "_" + getItemName(pIngredients));
         }
     }
 

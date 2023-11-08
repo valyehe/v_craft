@@ -3,7 +3,6 @@ package com.v.v_craft.datagen;
 import com.v.v_craft.V_craft;
 import com.v.v_craft.block.ModBlocks;
 import com.v.v_craft.item.ModItems;
-import com.v.v_craft.tab.ModCreativeModTabs;
 import net.minecraft.data.PackOutput;
 import net.minecraftforge.common.data.LanguageProvider;
 
@@ -36,6 +35,29 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModBlocks.NETHER_SAPPHIRE_ORE.get(), "Nether Sapphire Ore");
         add(ModBlocks.END_STONE_SAPPHIRE_ORE.get(), "End Stone Sapphire Ore");
         add(ModBlocks.SOUND_BLOCK.get(), "Sound Block");
+        //decoration block
+        add(ModBlocks.SAPPHIRE_STAIRS.get(), "Sapphire Stairs");
+        add(ModBlocks.SAPPHIRE_BUTTON.get(), "Sapphire Button");
+        add(ModBlocks.SAPPHIRE_PRESSURE_PLATE.get(), "Sapphire Pressure plate");
+        add(ModBlocks.SAPPHIRE_SLAB.get(), "Sapphire Slab");
+        add(ModBlocks.SAPPHIRE_FENCE.get(), "Sapphire Fence");
+        add(ModBlocks.SAPPHIRE_FENCE_GATE.get(), "Sapphire Fence Gate");
+        add(ModBlocks.SAPPHIRE_WALL.get(), "Sapphire Wall");
+        add(ModBlocks.SAPPHIRE_DOOR.get(), "Sapphire Door");
+        add(ModBlocks.SAPPHIRE_TRAPDOOR.get(), "Sapphire Trapdoor");
+        //tool
+        add(ModItems.SAPPHIRE_STAFF.get(), "Sapphire Staff");
+        add(ModItems.SAPPHIRE_SWORD.get(), "Sapphire Sword");
+        add(ModItems.SAPPHIRE_PICKAXE.get(), "Sapphire PickAxe");
+        add(ModItems.SAPPHIRE_AXE.get(), "Sapphire Axe");
+        add(ModItems.SAPPHIRE_SHOVEL.get(), "Sapphire Shovel");
+        add(ModItems.SAPPHIRE_HOE.get(), "Sapphire Hoe");
+        //armor
+        add(ModItems.SAPPHIRE_HELMET.get(), "Sapphire Helmet");
+        add(ModItems.SAPPHIRE_CHESTPLATE.get(), "Sapphire ChestPlate");
+        add(ModItems.SAPPHIRE_LEGGINGS.get(), "Sapphire Leggings");
+        add(ModItems.SAPPHIRE_BOOTS.get(), "Sapphire Boots");
+
 
     }
 }

@@ -1,11 +1,20 @@
 {
   "values": [
+    "v_craft:sound_block",
     "v_craft:sapphire_block",
     "v_craft:raw_sapphire_block",
+    "v_craft:sapphire_fence",
+    "v_craft:sapphire_fence_gate",
+    "v_craft:sapphire_wall",
+    "v_craft:sapphire_pressure_plate",
+    "v_craft:sapphire_door",
+    "v_craft:sapphire_trapdoor",
+    "v_craft:sapphire_button",
+    "v_craft:sapphire_stairs",
+    "v_craft:sapphire_slab",
     "v_craft:sapphire_ore",
     "v_craft:deepslate_sapphire_ore",
     "v_craft:nether_sapphire_ore",
-    "v_craft:end_stone_sapphire_ore",
-    "v_craft:sound_block"
+    "v_craft:end_stone_sapphire_ore"
   ]
 }
