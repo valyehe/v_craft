@@ -2,6 +2,7 @@ package com.v.v_craft;
 
 import com.mojang.logging.LogUtils;
 import com.v.v_craft.block.ModBlocks;
+import com.v.v_craft.effect.ModEffects;
 import com.v.v_craft.item.ModItems;
 import com.v.v_craft.tab.ModCreativeModTabs;
 import net.minecraft.client.Minecraft;
@@ -54,6 +55,10 @@ public class V_craft {
 
         //注册方块
         ModBlocks.register(modEventBus);
+
+        //注册效果
+        ModEffects.register(modEventBus);
+
 
     }
 
