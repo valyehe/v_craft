@@ -1,4 +1,4 @@
-// 1.20.1	2023-11-08T13:40:18.4473328	Block States: v_craft
+// 1.20.1	2023-11-10T15:13:31.8351602	Block States: v_craft
 2379125acd3032211272f978a4a562068c691c3d assets/v_craft/blockstates/deepslate_sapphire_ore.json
 45bde7d3b3bd9f18ce9e4ae1ed61c93f0f660dd3 assets/v_craft/blockstates/end_stone_sapphire_ore.json
 c6c10ae30f63358af094db9c196a6d81c040e480 assets/v_craft/blockstates/nether_sapphire_ore.json
@@ -15,6 +15,7 @@ f70e70b3c3140a05e82c6f3e2b154c958c64f89d assets/v_craft/blockstates/raw_sapphire
 ac58be12ce23afd3672795ae98ba682f9830c516 assets/v_craft/blockstates/sapphire_trapdoor.json
 c5841d54a69f6884d89f20ff359f58020ef10374 assets/v_craft/blockstates/sapphire_wall.json
 fbd0498dbc71fdce5165d75069b06db936badf81 assets/v_craft/blockstates/sound_block.json
+d507e15929e0694579d3bf7723694b70619f0359 assets/v_craft/blockstates/strawberry_crop.json
 9f55cba382277de33819469804a1edcefb8d36d8 assets/v_craft/models/block/deepslate_sapphire_ore.json
 3bd7f3ec0a6ba8698aad0655ad7544913e192b6c assets/v_craft/models/block/end_stone_sapphire_ore.json
 f53688b5826845307780f784dd1a1e9159e5bd8a assets/v_craft/models/block/nether_sapphire_ore.json
@@ -51,6 +52,12 @@ c66990a05908369d4a195c5b9509f2963361653d assets/v_craft/models/block/sapphire_tr
 f62cff18a2052e50c2ab02e9af84ed3cf5a3f6aa assets/v_craft/models/block/sapphire_wall_side.json
 c6b8b1e4b36e1d1adf19352fcbb1244e1f24b2f3 assets/v_craft/models/block/sapphire_wall_side_tall.json
 4b27c603db4825ba47dac1d7805ce2aa8be7547a assets/v_craft/models/block/sound_block.json
+9725a0b813e7e8b45151995ef1a57932207c196c assets/v_craft/models/block/strawberry_stage0.json
+67d65bc9a5a96fa273f89ea45e442c380905544a assets/v_craft/models/block/strawberry_stage1.json
+b1b22d3204f8b15c1cee94ec4d31eb1b0fa28170 assets/v_craft/models/block/strawberry_stage2.json
+b5d51508fdd6c53cccb6ba9d7e1a04eb3ed9b338 assets/v_craft/models/block/strawberry_stage3.json
+2cc94eee810c00c5a5f55b1b047d701e03ea23bc assets/v_craft/models/block/strawberry_stage4.json
+a568509a614e7a834ebdd19ea4e20d6337be8913 assets/v_craft/models/block/strawberry_stage5.json
 546b3605be973a5bf4cc4c25fe8131fb5f650510 assets/v_craft/models/item/deepslate_sapphire_ore.json
 3306b47abcad3c8246e329363ba577c174d3966e assets/v_craft/models/item/end_stone_sapphire_ore.json
 7aeb970777a03191f0d713a199b80cbb96fb43bb assets/v_craft/models/item/nether_sapphire_ore.json

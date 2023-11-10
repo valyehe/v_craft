@@ -2,6 +2,7 @@ package com.v.v_craft.block;
 
 import com.v.v_craft.V_craft;
 import com.v.v_craft.block.custom.SoundBlock;
+import com.v.v_craft.block.custom.StrawberryCropBlock;
 import com.v.v_craft.item.ModItems;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.util.valueproviders.UniformInt;
@@ -104,6 +105,11 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> SAPPHIRE_TRAPDOOR = registerBlock("sapphire_trapdoor",
             () -> new TrapDoorBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).noOcclusion(), BlockSetType.IRON));
+
+    //作物
+    public static final RegistryObject<Block> STRAWBERRY_CROP = BLOCKS.register("strawberry_crop",
+            () -> new StrawberryCropBlock(BlockBehaviour.Properties.copy(Blocks.WHEAT).noOcclusion().noCollission()));
+
 
     //注册总线
     public static void register(IEventBus eventBus) {

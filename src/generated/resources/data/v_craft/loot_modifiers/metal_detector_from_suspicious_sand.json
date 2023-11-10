@@ -1,0 +1,10 @@
+{
+  "type": "v_craft:add_sus_sand_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:archaeology/desert_pyramid"
+    }
+  ],
+  "item": "v_craft:metal_detector"
+}

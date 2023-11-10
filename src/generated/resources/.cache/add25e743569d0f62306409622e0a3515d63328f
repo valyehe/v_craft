@@ -1,0 +1,6 @@
+// 1.20.1	2023-11-10T15:13:31.8341425	Global Loot Modifiers : v_craft
+b907764c43576d5b8bdee02fd82746c3b77e39e3 data/forge/loot_modifiers/global_loot_modifiers.json
+4a090227b8a70e0104692caa07fa08533f580257 data/v_craft/loot_modifiers/metal_detector_from_jungle_temples.json
+79db5b1ff510846f8a4ea5eae00dbe4cda9d3a72 data/v_craft/loot_modifiers/metal_detector_from_suspicious_sand.json
+493bc6cf3291476e108fdb3bf26b7294b3354c49 data/v_craft/loot_modifiers/pine_cone_from_creeper.json
+a85c87bd0276a950afa6d8d525fb1df4b0b7bd1e data/v_craft/loot_modifiers/pine_cone_from_grass.json

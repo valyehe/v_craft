@@ -1,4 +1,4 @@
-// 1.20.1	2023-11-08T13:40:18.4473328	Loot Tables
+// 1.20.1	2023-11-10T15:13:31.8351602	Loot Tables
 75a02f527c0d771cbdaa95a81e7cb71bedbc6d6e data/v_craft/loot_tables/blocks/deepslate_sapphire_ore.json
 bd58e346b2e10e5c9dc2b54cb0379ba00bfa90fc data/v_craft/loot_tables/blocks/end_stone_sapphire_ore.json
 e92a58ef326080cf3524d3024b3fd3b4f5bcc249 data/v_craft/loot_tables/blocks/nether_sapphire_ore.json
@@ -15,3 +15,4 @@ bb2e2e6f3df8a241c4e72db3634bd6685cbbcade data/v_craft/loot_tables/blocks/sapphir
 61da7d2b3c7158288c8bb8acc0c9157a5e65b6d1 data/v_craft/loot_tables/blocks/sapphire_trapdoor.json
 7205b3c725d154609dabde8f58397d279747739d data/v_craft/loot_tables/blocks/sapphire_wall.json
 9a3d869dd84341ba04f5579b0d2e856708fad829 data/v_craft/loot_tables/blocks/sound_block.json
+359e8ce4e962a8873f645cc6ca4decd10df3d1d2 data/v_craft/loot_tables/blocks/strawberry_crop.json

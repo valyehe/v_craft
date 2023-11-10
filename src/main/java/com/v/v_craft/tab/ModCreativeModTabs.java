@@ -34,6 +34,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.PINE_CONE.get());
                         //食物
                         pOutput.accept(ModItems.STRAWBERRY.get());
+                        //作物
+                        pOutput.accept(ModItems.STRAWBERRY_SEEDS.get());
                         //方块
                         pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());

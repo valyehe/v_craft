@@ -4,6 +4,7 @@ import com.mojang.logging.LogUtils;
 import com.v.v_craft.block.ModBlocks;
 import com.v.v_craft.effect.ModEffects;
 import com.v.v_craft.item.ModItems;
+import com.v.v_craft.loot.ModLootModifiers;
 import com.v.v_craft.tab.ModCreativeModTabs;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.level.block.Blocks;
@@ -58,6 +59,9 @@ public class V_craft {
 
         //注册效果
         ModEffects.register(modEventBus);
+
+        //注册掉落物
+        ModLootModifiers.register(modEventBus);
 
 
     }

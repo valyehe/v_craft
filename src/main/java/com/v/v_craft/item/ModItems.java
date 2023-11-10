@@ -1,6 +1,7 @@
 package com.v.v_craft.item;
 
 import com.v.v_craft.V_craft;
+import com.v.v_craft.block.ModBlocks;
 import com.v.v_craft.item.custom.FuelItem;
 import com.v.v_craft.item.custom.MetalDetectorItem;
 import com.v.v_craft.item.custom.ModArmorItem;
@@ -37,6 +38,10 @@ public class ModItems {
     //食物
     public static final RegistryObject<Item> STRAWBERRY = ITEMS.register("strawberry",
             () -> new Item(new Item.Properties().food(ModFoods.STRAWBERRY)));
+
+    //作物
+    public static final RegistryObject<Item> STRAWBERRY_SEEDS = ITEMS.register("strawberry_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.STRAWBERRY_CROP.get(), new Item.Properties()));
 
     //燃料
     public static final RegistryObject<Item> PINE_CONE = ITEMS.register("pine_cone",

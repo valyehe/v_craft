@@ -1,0 +1,9 @@
+{
+  "entries": [
+    "v_craft:pine_cone_from_grass",
+    "v_craft:pine_cone_from_creeper",
+    "v_craft:metal_detector_from_suspicious_sand",
+    "v_craft:metal_detector_from_jungle_temples"
+  ],
+  "replace": false
+}

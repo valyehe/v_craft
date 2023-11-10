@@ -1,4 +1,4 @@
-// 1.20.1	2023-11-08T16:36:11.1543118	Item Models: v_craft
+// 1.20.1	2023-11-10T15:13:31.8331439	Item Models: v_craft
 5ff63ea411babbc3d11a4f9b36a995ec55e95049 assets/v_craft/models/item/metal_detector.json
 faafb1acc43860cde678cf9f9c882403f027411b assets/v_craft/models/item/pine_cone.json
 3a65034febee84aa27c4b920ff0d06190bce8788 assets/v_craft/models/item/raw_sapphire.json
@@ -62,3 +62,4 @@ a8ee02f67069fb9f25c28197d66e6bac6f61de09 assets/v_craft/models/item/sapphire_swo
 a61683906dbeec67c410f6ffc97cb4f69e4a79cd assets/v_craft/models/item/sapphire_trapdoor.json
 255e8e60f3cdd11d30a6eb22116f743e6bc72133 assets/v_craft/models/item/sapphire_wall.json
 df8e716d96c2542b8c905f9a4247a61c59ff9f6d assets/v_craft/models/item/strawberry.json
+2b264bde8cbff8e22853b47c7c4594bbc26eaa71 assets/v_craft/models/item/strawberry_seeds.json
