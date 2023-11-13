@@ -32,6 +32,8 @@
   "item.v_craft.sapphire_sword": "Sapphire Sword",
   "item.v_craft.strawberry": "Strawberry",
   "item.v_craft.strawberry_seeds": "Strawberry Seed",
+  "key.categories.v_craft": "V Craft Category",
+  "key.v_craft.player_ability": "Player Ability",
   "tooltip.v_craft.metal_detector.tooltip": "Find Valuables UnderGround!",
   "tooltip.v_craft.sound_block.tooltip": "Makes sounds when right-clicked!"
 }

@@ -3,6 +3,7 @@ package com.v.v_craft.datagen;
 import com.v.v_craft.V_craft;
 import com.v.v_craft.block.ModBlocks;
 import com.v.v_craft.item.ModItems;
+import com.v.v_craft.util.KeyBinding;
 import net.minecraft.data.PackOutput;
 import net.minecraftforge.common.data.LanguageProvider;
 
@@ -58,7 +59,9 @@ public class ModLanguageProvider extends LanguageProvider {
         add(ModItems.SAPPHIRE_CHESTPLATE.get(), "Sapphire ChestPlate");
         add(ModItems.SAPPHIRE_LEGGINGS.get(), "Sapphire Leggings");
         add(ModItems.SAPPHIRE_BOOTS.get(), "Sapphire Boots");
-
+        //key bind
+        add(KeyBinding.KEY_CATEGORY_V_CRAFT, "V Craft Category");
+        add(KeyBinding.KEY_PLAYER_ABILITY, "Player Ability");
 
     }
 }
